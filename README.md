@@ -1,5 +1,6 @@
 # Godot-Realistic-TankController
-A godot plugin, made speciffically for realistic tank projects. Easy to set up!
+A godot plugin made speciffically for realistic tank projects. Easy to set up!
+Contains a TankBody3D (Which extends from RigidBody3D) and a TankWheel3D.
 Setup Instructions;
 Visit my youtube channel ; https://www.youtube.com/@GriffBolt4
 OR;
