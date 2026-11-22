@@ -8,9 +8,8 @@ as it is a secondary feature and may not work properly.)**
 Visit my *Youtube* channel ; https://www.youtube.com/@GriffBolt4
 
 Or:
-
-1. Download the plugin from this repository
-2. Unzip the downloaded plugin
+1. Open up Godot
+2. Download the plugin from this repository
 3. put it in your Godot's **Addons** Folder
 4. Activate it by going to **Project Settings > Addons**
 5. Create a new Scene, choose **TankBody3D** as the root node;
